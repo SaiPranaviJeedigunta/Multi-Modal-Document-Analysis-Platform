@@ -21,6 +21,9 @@ This project automates the data ingestion, storage, and analysis of publications
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-8ACD36?style=for-the-badge&logo=beautifulsoup&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/)
 [![NVIDIA APIs](https://img.shields.io/badge/NVIDIA%20APIs-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/apis)
 
+## Live application Links
+- Streamlit app: https://streamlit-app-us-central1-project3-439417.a.run.app
+- FastAPI Link: https://project3-439417.appspot.com
 
 ## Background
 The project focuses on implementing a comprehensive pipeline to automate data ingestion and analysis for CFA Institute publications. The pipeline also includes advanced query and summarization features using state-of-the-art machine learning models. This approach allows users to efficiently search and extract insights from large volumes of textual data.
