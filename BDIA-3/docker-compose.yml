@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: ./frontend/BD3app
+    ports:
+      - "8501:8501"
+    environment:
+      - FASTAPI_BACKEND_URL=http://backend:8000
+    depends_on:
+      - backend
+
+  backend:
+    build: ./frontend/BD3app/backend
+    ports:
+      - "8000:8000"
+    environment:
+      - SNOWFLAKE_USER=${SNOWFLAKE_USER}
+      - SNOWFLAKE_PASSWORD=${SNOWFLAKE_PASSWORD}
+      - NVIDIA_API_KEY=${NVIDIA_API_KEY}

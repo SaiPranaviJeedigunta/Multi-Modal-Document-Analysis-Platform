@@ -1,0 +1,45 @@
+# requirements.txt
+#fastapi==0.68.1
+#uvicorn==0.15.0
+#python-multipart==0.0.5
+#pydantic==1.8.2
+#snowflake-connector-python==2.7.0
+#llama-index==0.8.0
+#nvidia-llm==0.1.0
+#python-jose==3.3.0
+#passlib==1.7.4
+
+#nvidia-llm>=0.1.0
+# Core dependencies
+fastapi==0.104.1
+uvicorn==0.23.0
+python-multipart==0.0.6
+pydantic>=2.4.2
+pydantic-settings==2.0.3
+python-jose==3.3.0
+passlib==1.7.4
+
+# Frontend
+streamlit==1.39.0
+
+# Database & Storage
+snowflake-connector-python==3.12.3
+python-dotenv==1.0.0
+
+# ML & AI
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.0
+sentence-transformers==2.2.2
+
+# Vector Store
+faiss-cpu==1.7.4
+
+# Utilities
+pillow==10.0.0
+numpy==1.24.3
+pandas==2.0.3
+
+# Additional utilities
+python-multipart==0.0.6
+typing-extensions>=4.8.0
