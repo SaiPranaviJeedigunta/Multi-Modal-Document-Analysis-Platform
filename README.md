@@ -146,7 +146,7 @@ The PoC involved creating a minimal version of the pipeline, which included scra
    ## Team Contributions
 | Name                        | Contribution % | Contributions                                                                                    |
 |---------------------------  |----------------|--------------------------------------------------------------------------------------------------|
-| Sai Pranavi Jeedigunta      | 33%            | Data Ingestion, Pipeline Automation, Summarization in FastAPI backend                            |
+| Sai Pranavi Jeedigunta      | 33%            | Data Ingestion, Database Population, Pipeline Automation, Summarization in FastAPI backend       |
 | Akanksha Pandey             | 33%            | Implemented FastAPI backend for RAG along with research notes indexing                           |
 | Kalash Desai                | 33%            | Created Streamlit frontend, developed API for docs explore and selection and integrated services |
 
