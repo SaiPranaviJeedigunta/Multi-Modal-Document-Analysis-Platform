@@ -35,7 +35,7 @@ The PoC involved creating a minimal version of the pipeline, which included scra
 4. **Implement Search Functionality**: Enable users to query and retrieve relevant information using multi-modal RAG for targeted insights.
 
 ## Architecture Diagram
-![Architecture Diagram](architecture_diagram.png)  
+![Architecture Diagram](Architecture-Diagram/architecture_diagram.png)  
 
 ## Project Structure
 1. **Part 1: Data Ingestion and Database Population**
