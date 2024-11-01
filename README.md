@@ -108,7 +108,7 @@ The PoC involved creating a minimal version of the pipeline, which included scra
   ```
 
 ## Codelab Link
-[Codelab Documentation](https://your-codelab-url.com)
+[Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1YDpvSLUeodt7lW3ZT-wVSmbLw3S-tq2ce6TNO6etmL0/edit?tab=t.0#0)
 
 ## Demo Video
 [Project Demo Video](https://your-demo-video-url.com)
