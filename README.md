@@ -1,4 +1,4 @@
-# Assignment-3
+# DocFlow: Data-Driven Document Exploration
 
 ## Problem Statement
 Enterprises rely on vast amounts of publication data across various domains to drive strategic initiatives, inform decision-making, and maintain a competitive edge. However, these valuable insights are often embedded within unstructured data formats, requiring significant manual effort to extract and analyze relevant information. This project addresses the need for an automated solution to ingest, process, and summarize publication data, enabling enterprises to streamline information access, improve operational efficiency, and focus on deriving actionable insights without the burden of sifting through extensive, unstructured content.
